@@ -84,7 +84,7 @@ Now, enter a base 10 number in the range 0 to 80 to convert: 17
 
 ## ❖・Due・❖
 
-Thursday, 19 February 2026, at 4:45 PM.
+Thursday, 26 February 2026, at 4:45 PM.
 
 ---
 
